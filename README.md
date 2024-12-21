@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project is designed to showcase my skills, achievements, and projects in web development and Artificial Intelligence/Machine Learning.  
 
 ## 🚀 Live Demo  
-Visit my portfolio: [Portfolio Website](https://poojyanth-m.github.io/Portfolio-website/)  
+Visit my portfolio: [https://poojyanth-m.github.io/Portfolio-website/](https://poojyanth-m.github.io/Portfolio-website/) 
 
 ---
 
