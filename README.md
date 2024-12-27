@@ -16,7 +16,7 @@ Visit my portfolio: [https://poojyanth-m.github.io/Portfolio-website/](https://p
 ---
 
 ## 🛠️ Technologies Used  
-- ** Frontend **: HTML, CSS, JavaScript.  
+- ** Frontend **: HTML, CSS.  
 - ** Hosting **: GitHub Pages.  
 
 ---
